@@ -1,0 +1,28 @@
+_repo: True-Stories-of-Crime-From-the-District-Attorney-s-Office_13172
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Train, Arthur Cheney
+    birthdate: 1875
+    deathdate: 1945
+    gutenberg_agent_id: '1756'
+    url: http://www.gutenberg.org/2009/agents/1756
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Cheney_Train
+description: ''
+gutenberg_bookshelf: Crime Nonfiction
+gutenberg_issued: '2004-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Crime'
+title: True Stories of Crime From the District Attorney's Office
+url: http://www.gutenberg.org/ebooks/13172
