@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1756
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Cheney_Train
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13172#True-Stories-of-Crime-From-the-District-Attorney-s-Office
 gutenberg_bookshelf: Crime Nonfiction
 gutenberg_issued: '2004-08-13'
 gutenberg_type: Text
